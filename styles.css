@@ -1,0 +1,14 @@
+p {
+    color : blue;
+}
+A:hover { 
+    COLOR:orange; TEXT-DECORATION: none; font-weight: none
+ }
+
+ h1{
+     font-size: 100px;
+ }
+
+ .bear{
+    display: inline-block;
+ }
